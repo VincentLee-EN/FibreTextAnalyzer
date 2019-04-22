@@ -1,0 +1,7 @@
+text_predict_labels['__label__tech_product', '__label__economy_market']
+text_labels['economy_market', 'tech_product']
+预测正确的各个类的数目:{'economy_market': 545, 'tech_product': 567}
+测试数据集中各个类的数目{'economy_market': 600, 'tech_product': 600}
+预测结果中各个类的数目{'__label__tech_product': 622, '__label__economy_market': 578}
+economy_market:	 p:0.942907	 r:0.908333	 f:0.925297
+tech_product:	 p:0.911576	 r:0.945000	 f:0.927987
